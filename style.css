@@ -1,16 +1,28 @@
+body{
+  background-color: #f6f6f6;
+}
+.container{
+  margin-top: 10px;
+}
 .aboutmeicons{
-  height:30px;
-  width: 30px;
+  height:35px;
+  width: 35px;
   margin-right: 10px;
+}
+.aboutmeinfo{
+  font-size: 25px;
 }
 .gray{
   color: #c9c9c5;
 }
 .school{
-  font-size: 15px;
+  font-size: 20px;
 }
 .department{
-  font-size: 12px;
+  font-size: 18px;
+}
+.education{
+  font-size: 26px;
 }
 .progress-bar{
   background-color: #415c76;
@@ -25,4 +37,25 @@ p{
 .work{
   margin-top: 10px;
 }
-.bottomaligned {position:absolute; bottom:0;  margin-bottom:0px; right:7px;}
+.bottomaligned {
+  position:absolute;
+  bottom:0;
+  margin-bottom:0px;
+  right:7px;
+}
+.icons{
+  height: 50px;
+  width: 50px;
+  margin: 10px 30px 20px 0px;
+}
+.rounded-circle{
+  height: 200px;
+  width: 200px;
+  margin: 0 auto;
+}
+.area{
+  margin-bottom:20px;
+}
+.skillicons{
+  margin-top: 10px;
+}
