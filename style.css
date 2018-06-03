@@ -1,5 +1,4 @@
 .aboutmeicons{
-  background-color: #9fa1a2;
   height:30px;
   width: 30px;
   margin-right: 10px;
@@ -12,4 +11,14 @@
 }
 .department{
   font-size: 12px;
+}
+.progress-bar{
+  background-color: #415c76;
+}
+p{
+  margin-bottom: 0px;
+}
+.col-sm-3{
+  padding-left: 2px;
+  padding-right: 2px;
 }
