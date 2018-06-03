@@ -25,3 +25,4 @@ p{
 .work{
   margin-top: 10px;
 }
+.bottomaligned {position:absolute; bottom:0;  margin-bottom:0px; right:7px;}
