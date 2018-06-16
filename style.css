@@ -64,7 +64,7 @@ p{
 }
 .card-img-top{
   height: 200px;
-  width: 400px;
+  width: 385px;
 }
 .area{
   margin-bottom:20px;
@@ -113,4 +113,9 @@ a:not([href]):not([tabindex]){
     background-image: -moz-linear-gradient(left, #eee, #777, #eee);
     background-image: -ms-linear-gradient(left, #eee, #777, #eee);
     background-image: -o-linear-gradient(left, #eee, #777, #eee);
+}
+.col-md-5{
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-bottom: 40px;
 }
