@@ -87,7 +87,7 @@ a:not([href]):not([tabindex]){
   background-attachment: fixed;
 }
 .card{
-  max-width: 402px;
+  max-width: 385px;
 }
 .card-deck{
   margin-bottom: 30px;
